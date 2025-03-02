@@ -29,6 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshiiraut&" alt="sakshiiraut" /></p>
 
-<img src="https://github.com/sakshiiraut/sakshiiraut/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 
