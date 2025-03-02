@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Raut</h1>
 <h3 align="center">Aspiring Software Engineer | Web Developer | Problem Solver.</h3>
-
+<img align="right" src="prof.gif" alt="coding" width="400"
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshiiraut" alt="sakshiiraut" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development (MERN), Data Structures & Algorithms**
